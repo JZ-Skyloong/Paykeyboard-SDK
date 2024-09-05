@@ -5,7 +5,7 @@
 *  [paykeyboard-release-3.08.aar](../digest/paykeyboard-release-3.08.aar) is a library, it would be used in this demo or your app.
 *  [默认layout.png](../digest/默认layout.png) is JK-138 default layout:
   * ![JK-138 default layout](../digest/默认layout.png)
-*  [布局1.png](../布局1.png) is a option layout for JK-138:
+*  [布局1.png](../digest/布局1.png) is a option layout for JK-138:
   * ![JK-138 layout 1](../digest/布局1.png)
 *  [布局3（JK165）.png](../digest/布局3（JK165）.png) is JK-165 default layout:
   * ![JK-165 default layout](../digest/布局3（JK165）.png)
